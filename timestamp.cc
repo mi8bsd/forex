@@ -1,6 +1,6 @@
 /*
- * Copyright (c) 2017 Mellanox Technologies
- * This software was developed by Konstantin Belousov <konstantinb@mellanox.com>
+ * Copyright (c) 2017 Michael
+ * This software was developed by Michael
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted provided that the following conditions
